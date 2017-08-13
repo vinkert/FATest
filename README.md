@@ -1,2 +1,2 @@
-# FrontAppGithub
-Test repository for FrontApp to connect to and respond to manage issues.
+# FAtest
+Test repository to connect to and respond to manage issues.
